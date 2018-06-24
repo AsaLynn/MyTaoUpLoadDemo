@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f06f5df87002cf3be386f3144da4540\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\42ead5ed8d0256fc545b1a11d564b8c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\23d899cbbffb4b25c8ac48a225e95956\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\412368babdd8c1321f9ec8507a8f5315\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\13e5b4baa00f6a0eeef9896b63702577\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8ecc3368d57bbcf1dc9a12fe8197271b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6e2566f6f37c2d593da7304c13061e2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\92777eb884af91fd9af29de883afc553\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\639ea60a07ffa1b7babeba87175539f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ca7148e9ffe45cf628bb3423e7b1d392\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9eb3213ac9c17410e58d669ccb8c5bb2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\464504bb097626f9603df0dedd09b67d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\46782c494b1d84ffb8e59cccea505bb9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a01b1536e1ad5eb1f7d362b160e33066\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:5:5-21:19
+	android:supportsRtl
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:10:9-40
+activity#com.imooc.tao.imtao.MainActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:11:9-50
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:11:19-47
+activity#com.imooc.tao.imtao.SplashActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:16:27-74
+activity#com.imooc.tao.imtao.LoginActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:19:19-48
+activity#com.imooc.tao.imtao.RegisterActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml:20:19-51
+uses-sdk
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f06f5df87002cf3be386f3144da4540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f06f5df87002cf3be386f3144da4540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\42ead5ed8d0256fc545b1a11d564b8c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\42ead5ed8d0256fc545b1a11d564b8c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\23d899cbbffb4b25c8ac48a225e95956\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\23d899cbbffb4b25c8ac48a225e95956\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\412368babdd8c1321f9ec8507a8f5315\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\412368babdd8c1321f9ec8507a8f5315\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\13e5b4baa00f6a0eeef9896b63702577\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\13e5b4baa00f6a0eeef9896b63702577\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8ecc3368d57bbcf1dc9a12fe8197271b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8ecc3368d57bbcf1dc9a12fe8197271b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6e2566f6f37c2d593da7304c13061e2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6e2566f6f37c2d593da7304c13061e2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\92777eb884af91fd9af29de883afc553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\92777eb884af91fd9af29de883afc553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\639ea60a07ffa1b7babeba87175539f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\639ea60a07ffa1b7babeba87175539f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ca7148e9ffe45cf628bb3423e7b1d392\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\think\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ca7148e9ffe45cf628bb3423e7b1d392\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9eb3213ac9c17410e58d669ccb8c5bb2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9eb3213ac9c17410e58d669ccb8c5bb2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\464504bb097626f9603df0dedd09b67d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\464504bb097626f9603df0dedd09b67d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\46782c494b1d84ffb8e59cccea505bb9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\46782c494b1d84ffb8e59cccea505bb9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a01b1536e1ad5eb1f7d362b160e33066\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\think\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a01b1536e1ad5eb1f7d362b160e33066\AndroidManifest.xml:20:5-44
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+		ADDED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\MyDemo\MuTaoUpLoad\src\main\AndroidManifest.xml
